@@ -1,19 +1,19 @@
 {
-  "name": "n8n-nodes-<...>",
+  "name": "n8n-nodes-orel",
   "version": "0.1.0",
-  "description": "",
+  "description": "n8n community nodes for Orel",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "Siwakorn165",
+    "email": "136100030+Siwakorn165@users.noreply.github.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<...>/n8n-nodes-<...>.git"
+    "url": "https://github.com/Siwakorn165/orel.git"
   },
   "engines": {
     "node": ">=20.15"
